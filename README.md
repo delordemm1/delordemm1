@@ -1,7 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="www.linkedin.com/in/emmanuel-arua-086a6a196">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://x.com/delordemm1">
+      <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 </div>
-### Hi there 👋
 
 <!--
 **delordemm1/delordemm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
