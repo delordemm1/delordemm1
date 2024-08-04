@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Golang and Ethical Hacking.
+- :seedling: Exploring Golang, Web3, AI and Ethical Hacking.
 
 - :zap: In my free time, I read tech articles and and try to learn new things.
 
